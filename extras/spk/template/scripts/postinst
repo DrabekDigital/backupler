@@ -1,5 +1,3 @@
 #!/bin/sh
 
-ln -nsf /var/packages/${SYNOPKG_PKGNAME}/target/bin/backupler /usr/local/bin/backupler
-ln -nsf /var/packages/backupler/target/bin/backupler /usr/local/bin/backupler
 exit 0
