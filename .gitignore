@@ -3,3 +3,5 @@
 .backupler.yaml
 .history/
 bin/*
+extras/spk/staging
+backupler-*.spk

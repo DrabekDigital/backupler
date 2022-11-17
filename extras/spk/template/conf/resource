@@ -1,0 +1,8 @@
+{
+    "service-cfg":{},
+    "usr-local-linker": {
+        "bin": [
+            "bin/backupler"
+        ]
+    }
+}

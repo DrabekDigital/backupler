@@ -1,0 +1,13 @@
+package="backupler"
+version="1.0-4"
+description="🛠️ Tool for removing some of the old full backups to keep desired history"
+arch="apollolake avoton braswell broadwell broadwellnk broadwellnkv2 broadwellntbap bromolow cedarview denverton epyc7002 geminilake grantley kvmx64 purley r1000 v100"
+distributor="Jan Drábek"
+distributor_url="https://github.com/repli2dev/backupler"
+maintainer="Jan Drábek"
+maintainer_url="https://github.com/repli2dev/backupler"
+os_min_ver="7.0-41890"
+helpurl="https://github.com/repli2dev/backupler"
+ctl_stop="no"
+dsmappname=cz.drabek.packages.cli-utils.backupler
+displayname="Backupler util"
