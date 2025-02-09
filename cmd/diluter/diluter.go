@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"drabek.cz/cli-utils/backupler/cmd/diluter/config"
-	"drabek.cz/cli-utils/backupler/cmd/diluter/definitions"
-	"drabek.cz/cli-utils/backupler/cmd/diluter/helpers"
+	"drabek.digital/cli-utils/backupler/cmd/diluter/config"
+	"drabek.digital/cli-utils/backupler/cmd/diluter/definitions"
+	"drabek.digital/cli-utils/backupler/cmd/diluter/helpers"
 	"gopkg.in/yaml.v3"
 )
 

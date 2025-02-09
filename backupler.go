@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"drabek.cz/cli-utils/backupler/cmd/diluter"
-	"drabek.cz/cli-utils/backupler/cmd/mocker"
+	"drabek.digital/cli-utils/backupler/cmd/diluter"
+	"drabek.digital/cli-utils/backupler/cmd/mocker"
 	"github.com/pborman/getopt/v2"
 )
 

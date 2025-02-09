@@ -83,3 +83,7 @@ For testing there is simple tool that mocks backup directory for each day in spe
 Always test your configuration in your own playground under real-world scenario. Fiddle around with the exact folder structure (without content) with test mode or in approval mode.
 
 **Author of this library does not provide any guarantee nor is any liable that the tool will work properly and you will do not loose any backup you do not want to loose!**
+
+## License
+
+See [LICENSE](./LICENSE) file

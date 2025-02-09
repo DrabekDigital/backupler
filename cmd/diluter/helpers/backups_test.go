@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"drabek.cz/cli-utils/backupler/cmd/diluter/definitions"
+	"drabek.digital/cli-utils/backupler/cmd/diluter/definitions"
 )
 
 func TestListbackups(t *testing.T) {

@@ -1,4 +1,4 @@
-module drabek.cz/cli-utils/backupler
+module drabek.digital/cli-utils/backupler
 
 go 1.18
 

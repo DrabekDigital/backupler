@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"math"
 
-	"drabek.cz/cli-utils/backupler/cmd/diluter/definitions"
-	"drabek.cz/cli-utils/backupler/cmd/diluter/helpers"
-	"drabek.cz/cli-utils/backupler/cmd/diluter/strategies"
+	"drabek.digital/cli-utils/backupler/cmd/diluter/definitions"
+	"drabek.digital/cli-utils/backupler/cmd/diluter/helpers"
+	"drabek.digital/cli-utils/backupler/cmd/diluter/strategies"
 )
 
 func ValidateConfig(c definitions.Config) error {

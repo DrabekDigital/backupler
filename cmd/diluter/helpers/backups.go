@@ -6,8 +6,8 @@ import (
 	"sort"
 	"time"
 
-	"drabek.cz/cli-utils/backupler/cmd/diluter/definitions"
-	"drabek.cz/cli-utils/backupler/cmd/diluter/strategies"
+	"drabek.digital/cli-utils/backupler/cmd/diluter/definitions"
+	"drabek.digital/cli-utils/backupler/cmd/diluter/strategies"
 )
 
 const DEBUG_POLICIES_ALG = false
